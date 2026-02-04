@@ -168,9 +168,14 @@ Parameterization using JSON/YAML
 
 Test coverage metrics
 
+---
+
 ### Author
 Davis Niranjan
 
-###License
+---
+
+### License
 
 This project is intended for educational and portfolio purposes.
+
