@@ -1,0 +1,10 @@
+field,input,expected
+username,ab,Username length must be between 3 and 15
+username,veryveryverylongusername,Username length must be between 3 and 15
+username,user@123,Username must be alphanumeric
+age,17,Age must be between 18 and 60
+age,61,Age must be between 18 and 60
+age,twenty,Age must be an integer
+email,userexample.com,Invalid email format
+email,user@com,Invalid email format
+email,None,Email must be a string
